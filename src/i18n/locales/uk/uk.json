@@ -1,0 +1,17 @@
+{
+  "Test": "Ukrainian",
+  "English": "Англійська",
+  "French": "Французька",
+  "Ukrainian": "Українська",
+  "Today": "Сьогодні в Україні: {{value, datetime}}",
+  "BigNumber": "Якесь велике число: {{value, number}}",
+  "Length": "{{count}} cm",
+  "Length_one": "{{count}} cm",
+  "Length_other": "{{count}} cms",
+  "Weight": "{{count}} кг",
+  "Weight_one": "{{count}} кг",
+  "Weight_other": "{{count}} кг",
+  "Liquid": "{{count}} літрів",
+  "Liquid_one": "{{count}} літр",
+  "Liquid_other": "{{count}} літрів"
+}

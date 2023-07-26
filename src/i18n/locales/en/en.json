@@ -1,0 +1,16 @@
+{
+  "English": "English",
+  "French": "French",
+  "Ukrainian": "Ukrainian",
+  "Today": "Today is {{value, datetime}}",
+  "BigNumber": "Big number: {{value, number}}",
+  "Length": "{{count}} inches",
+  "Length_one": "{{count}} inch",
+  "Length_other": "{{count}} inches",
+  "Weight": "{{count}} pounds",
+  "Weight_one": "{{count}} pound",
+  "Weight_other": "{{count}} pounds",
+  "Liquid": "{{count}} ounces",
+  "Liquid_one": "{{count}} ounce",
+  "Liquid_other": "{{count}} ounces"
+}

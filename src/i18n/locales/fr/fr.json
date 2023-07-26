@@ -1,0 +1,16 @@
+{
+  "English": "Anglais",
+  "French": "Français",
+  "Ukrainian": "Ukrainien",
+  "Today": "Aujourd'hui, c'est {{value, datetime}}",
+  "BigNumber": "Grand nombre: {{value, number}}",
+  "Length": "{{count}} cm",
+  "Length_one": "{{count}} cm",
+  "Length_other": "{{count}} cms",
+  "Weight": "{{count}} livres",
+  "Weight_one": "{{count}} livre",
+  "Weight_other": "{{count}} livres",
+  "Liquid": "{{count}} litres",
+  "Liquid_one": "{{count}} litre",
+  "Liquid_other": "{{count}} litres"
+}
